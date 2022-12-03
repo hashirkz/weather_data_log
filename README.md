@@ -20,3 +20,8 @@ chmod +rwx <path_of_weather_parser.sh>
 ```bash
 ./weather_parser.sh <weather_data_directory>
 ```  
+
+4. open `sensorstats.html` (with browser or with lynx)  
+``` bash
+lynx sensorstats.html
+```  
