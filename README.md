@@ -1,7 +1,8 @@
 # DISCLAIMER  
 **THIS IS FOR A SCHOOL PROJECT DO NOT REUSE THIS CODE**  
 
-## weather data reader  
+## weather data reader
+![weather_data_html.png](./weather_data_img.png)
 
 ## usage  
 1. make a directory with weather data files formatted `weather_parser.out.txt`
