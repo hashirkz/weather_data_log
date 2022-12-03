@@ -13,10 +13,10 @@ mkdir <weatherdata_directory_name>
 mkdir weather_stuff
 cd weather_stuff 
 cp ../<path_of_weatherdata_directory> ./<path_of_weatherdata_directory>
-cp ../<path_of_weather_parser.sh> ./<path_of_weather_parser.sh>
+cp ../<path_of_weather_parser.sh> ./<path_of_weather_parser.bash>
 chmod +rwx <path_of_weather_parser.sh>
 ```  
-3. run/execute `weather_parser.sh`
+3. run/execute `weather_parser.bash`
 ```bash
 ./weather_parser.sh <weather_data_directory>
 ```  
