@@ -1,5 +1,5 @@
 # DISCLAIMER  
-**THIS IS SCHOOL HOMWORK DO NOT REUSE THIS CODE**  
+**THIS IS SCHOOL HOMEWORK DO NOT REUSE THIS CODE**  
 
 ## weather data reader
 ![weather_data_html.png](./weather_data_img.png)
